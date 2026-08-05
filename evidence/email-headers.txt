@@ -1,16 +1,16 @@
 
-Return-Path: <accounts@microsoft-billing.com>
+Return-Path: <accounts@micros0ft-billing.com>
 
-Received: from mail.microsoft-billing.com (185.225.69.55)
+Received: from mail.micros0ft-billing.com (185.225.69.55)
     by mail.contoso.com with ESMTP;
     Tue, 04 Aug 2026 09:12:16 +0000
 
-From: Accounts Payable <accounts@microsoft-billing.com>
+From: Accounts Payable <accounts@micros0ft-billing.com>
 
-Reply-To: support@microsoft-billing.com
+Reply-To: support@micros0ft-billing.com
 
 Message-ID:
-<24892394823@mail.microsoft-billing.com>
+<24892394823@mail.micros0ft-billing.com>
 
 Authentication-Results:
     spf=fail
