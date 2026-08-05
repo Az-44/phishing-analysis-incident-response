@@ -32,3 +32,22 @@ Microsoft Billing Department
 Attachment:
 
 Invoice_10482.docm
+
+==================================================
+
+Incident Ticket
+
+Ticket ID:
+INC-2026-0087
+
+Reported By:
+Sarah Johnson
+
+Department:
+Finance
+
+Summary:
+User reported a suspicious invoice email requesting urgent payment and containing a Microsoft Word macro-enabled attachment.
+
+Current Status:
+Pending Security Investigation
