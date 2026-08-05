@@ -1,1 +1,21 @@
 
+Return-Path: <accounts@microsoft-billing.com>
+
+Received: from mail.microsoft-billing.com (185.225.69.55)
+    by mail.contoso.com with ESMTP;
+    Tue, 04 Aug 2026 09:12:16 +0000
+
+From: Accounts Payable <accounts@microsoft-billing.com>
+
+Reply-To: support@microsoft-billing.com
+
+Message-ID:
+<24892394823@mail.microsoft-billing.com>
+
+Authentication-Results:
+    spf=fail
+    dkim=none
+    dmarc=fail
+
+X-Mailer:
+Microsoft Outlook 16.0
