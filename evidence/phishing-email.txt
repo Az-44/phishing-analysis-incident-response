@@ -1,7 +1,7 @@
 
 Subject: Urgent: Outstanding Invoice INV-10482
 
-From: Accounts Payable <accounts@microsoft-billing.com>
+From: Accounts Payable <accounts@micros0ft-billing.com>
 
 To: Sarah Johnson <sarah.johnson@contoso.com>
 
@@ -22,7 +22,7 @@ Amount:
 $4,870.55
 
 Open Invoice:
-hxxps://microsoft-billing[.]com/invoice
+hxxps://micros0ft-billing[.]com/invoice
 
 Thank you,
 
