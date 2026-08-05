@@ -1,1 +1,34 @@
 
+Subject: Urgent: Outstanding Invoice INV-10482
+
+From: Accounts Payable <accounts@microsoft-billing.com>
+
+To: Sarah Johnson <sarah.johnson@contoso.com>
+
+Date: Tue, 04 Aug 2026 09:12:18 +0000
+
+------------------------------------------------------------
+
+Dear Sarah,
+
+We attempted to process the attached invoice but noticed an outstanding balance on your account.
+
+Please review the attached document and complete payment today to avoid service interruption.
+
+Invoice Number:
+INV-10482
+
+Amount:
+$4,870.55
+
+Open Invoice:
+hxxps://microsoft-billing[.]com/invoice
+
+Thank you,
+
+Accounts Payable Team
+Microsoft Billing Department
+
+Attachment:
+
+Invoice_10482.docm
