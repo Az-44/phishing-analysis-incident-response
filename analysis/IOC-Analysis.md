@@ -46,8 +46,13 @@ The assessment remained suspicious based on independent evidence collected durin
 
 ### Evidence
 
-- [VirusTotal Domain Lookup](../evidence/screenshots/virustotal-domain.png)
-- [VirusTotal IP Lookup](../evidence/screenshots/virustotal-ip.png)
+#### VirusTotal Domain Lookup
+
+![VirusTotal Domain](../evidence/screenshots/virustotal-domain.png)
+
+#### VirusTotal IP Lookup
+
+![VirusTotal IP](../evidence/screenshots/virustotal-ip.png)
 
 ---
 
@@ -67,7 +72,9 @@ Abuse reputation alone is insufficient to classify an indicator as malicious but
 
 ### Evidence
 
-- [AbuseIPDB IP Lookup](../evidence/screenshots/abuseipdb-ip.png)
+#### AbuseIPDB IP Reputation
+
+![AbuseIPDB](../evidence/screenshots/abuseipdb-ip.png)
 
 ---
 
@@ -85,7 +92,9 @@ The lack of registration data does not confirm malicious activity but increases 
 
 ### Evidence
 
-- [WHOIS Domain Lookup](../evidence/screenshots/whois-domain.png)
+#### WHOIS Lookup
+
+![WHOIS](../evidence/screenshots/whois-domain.png)
 
 ---
 
