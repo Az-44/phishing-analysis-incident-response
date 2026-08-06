@@ -100,8 +100,6 @@ More importantly, it reinforced that effective security analysis depends on eval
 
 ---
 
----
-
 ## Personal Reflection
 
 This project improved both my technical investigation skills and my ability to document security incidents in a structured and professional manner.
