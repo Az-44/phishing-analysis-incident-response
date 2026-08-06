@@ -44,10 +44,10 @@ This does **not** indicate that the infrastructure is legitimate. Newly created 
 
 The assessment remained suspicious based on independent evidence collected during the investigation.
 
-**Evidence**
+### Evidence
 
-- `evidence/screenshots/virustotal-domain.png`
-- `evidence/screenshots/virustotal-ip.png`
+- [VirusTotal Domain Lookup](../evidence/screenshots/virustotal-domain.png)
+- [VirusTotal IP Lookup](../evidence/screenshots/virustotal-ip.png)
 
 ---
 
@@ -65,9 +65,9 @@ Although the abuse confidence score remained low, previous reports indicate the 
 
 Abuse reputation alone is insufficient to classify an indicator as malicious but provides valuable investigation context.
 
-**Evidence**
+### Evidence
 
-- `evidence/screenshots/abuseipdb-ip.png`
+- [AbuseIPDB IP Lookup](../evidence/screenshots/abuseipdb-ip.png)
 
 ---
 
@@ -83,9 +83,9 @@ A WHOIS lookup returned no registration information for the investigated domain.
 
 The lack of registration data does not confirm malicious activity but increases suspicion when combined with the observed phishing indicators.
 
-**Evidence**
+### Evidence
 
-- `evidence/screenshots/whois-domain.png`
+- [WHOIS Domain Lookup](../evidence/screenshots/whois-domain.png)
 
 ---
 
