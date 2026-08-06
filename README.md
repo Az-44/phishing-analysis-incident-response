@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="evidence/screenshots/phishing-analysis-incident-response_banner" alt="Phishing Analysis & Incident Response Banner">
+  <img src="evidence/screenshots/phishing-analysis-incident-response_banner.png" alt="Phishing Analysis & Incident Response Banner">
 </p>
 
 # Phishing Analysis & Incident Response
