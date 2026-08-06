@@ -12,9 +12,9 @@ Only techniques directly supported by the available evidence have been included.
 
 | Tactic | Technique | ID | Confidence | Evidence |
 |---------|-----------|----|------------|----------|
-| Initial Access | Phishing | T1566 | High | Email used social engineering to deliver a malicious attachment and embedded link. |
-| Initial Access | Spearphishing Attachment | T1566.001 | High | Email included a macro-enabled Microsoft Word document (`Invoice_10482.docm`). |
-| Initial Access | Spearphishing Link | T1566.002 | High | Email contained a hyperlink directing the recipient to a typosquatted domain (`micros0ft-billing.com`). |
+| Initial Access | Phishing | T1566 | **High** | Email used social engineering to deliver a malicious attachment and embedded link. |
+| Initial Access | Spearphishing Attachment | T1566.001 | **High** | Email included a macro-enabled Microsoft Word document (`Invoice_10482.docm`). |
+| Initial Access | Spearphishing Link | T1566.002 | **High** | Email contained a hyperlink directing the recipient to a typosquatted domain (`micros0ft-billing.com`). |
 
 ---
 
