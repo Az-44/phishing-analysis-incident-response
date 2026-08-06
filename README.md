@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="evidence/screenshots/phishing-analysis-incident-response_banner" alt="Phishing Analysis & Incident Response Banner">
+</p>
+
 # Phishing Analysis & Incident Response
 
 > A SOC-style phishing investigation demonstrating email triage, header analysis, IOC enrichment, MITRE ATT&CK mapping, incident response, and technical reporting.
@@ -161,6 +165,38 @@ phishing-analysis-incident-response/
 
 ## Disclaimer
 
-This repository is intended for educational purposes only.
+This repository is intended for educational purposes and demonstrates a structured phishing investigation workflow from the perspective of a Security Operations Center (SOC) analyst.
 
-The phishing email and investigation scenario are fictional and were created to demonstrate the workflow of a SOC analyst. Public threat intelligence resources were used where appropriate to support the investigation process.
+The phishing email, organization, and investigation scenario are fictional and were created to simulate a realistic incident response process. Public threat intelligence resources were used to demonstrate IOC enrichment where appropriate.
+
+No production systems, organizational data, or unauthorized targets were accessed during this project.
+
+---
+
+## Credits
+
+This project was built using publicly available cybersecurity resources and industry frameworks.
+
+### Threat Intelligence
+
+- VirusTotal
+- AbuseIPDB
+- WHOIS
+
+### Security Frameworks
+
+- MITRE ATT&CK®
+
+### References
+
+- Microsoft documentation (SPF, DKIM, and DMARC)
+- Public phishing awareness guidance
+- Industry-standard incident response practices
+
+All third-party tools, trademarks, and frameworks remain the property of their respective owners.
+
+---
+
+## License
+
+The original documentation and investigation content contained in this repository are licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
