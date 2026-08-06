@@ -1,17 +1,5 @@
 # Incident Report
 
----
-
-> **Case Summary**
->
-> **Incident ID:** INC-2026-0087  
-> **Category:** Phishing  
-> **Severity:** High  
-> **Status:** Closed  
-> **Verdict:** High-Confidence Phishing Attempt
-
----
-
 ## Executive Summary
 
 A Finance employee reported a suspicious invoice email claiming to originate from Microsoft Billing. The message requested immediate payment, contained a macro-enabled Microsoft Word attachment, and included a hyperlink to a typosquatted domain.
